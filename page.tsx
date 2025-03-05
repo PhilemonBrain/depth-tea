@@ -266,7 +266,7 @@ export default function Page() {
             <div className="col-span-1">
               <div className="flex items-center space-x-2 mb-6">
                 <div className="w-8 h-8 bg-purple-100 rounded-lg" />
-                <span className="font-bold">CLAID.AI</span>
+                <span className="font-bold">EHRConverge.AI</span>
               </div>
               <p className="text-sm text-gray-500 mb-4">
                 Copyright © 2025 Let's Enhance, Inc.
@@ -275,7 +275,7 @@ export default function Page() {
               </p>
               <div className="flex items-center space-x-2 text-sm text-gray-500">
                 <span className="w-2 h-2 bg-gray-500 rounded-full" />
-                <span>support@claid.ai</span>
+                <span>support@ehrconverge.ai</span>
               </div>
             </div>
             <div>

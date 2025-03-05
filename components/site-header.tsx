@@ -30,7 +30,7 @@ export function SiteHeader() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center gap-8">
               <Link href="/" className="font-bold text-xl">
-                CLAID.AI
+              EHRConverge.AI
               </Link>
               <NavigationMenu>
                 <NavigationMenuList>
@@ -100,7 +100,7 @@ export function SiteHeader() {
                         <li>
                           <NavigationMenuLink asChild>
                             <Link href="#" className="block p-2 hover:bg-gray-50 rounded-md">
-                              Claid AI x Zapier
+                              EHRConverge AI x Zapier
                             </Link>
                           </NavigationMenuLink>
                         </li>
@@ -196,7 +196,7 @@ export function SiteHeader() {
         {/* Promo Card */}
         <div className="absolute right-4 top-24">
           <Card className="w-[300px] p-4">
-            <h3 className="font-semibold mb-4">Learn how Claid can accelerate your business</h3>
+            <h3 className="font-semibold mb-4">Learn how EHRConverge can accelerate your business</h3>
             <div className="grid grid-cols-2 gap-2 mb-4">
               <div className="bg-gray-100 rounded-lg aspect-square" />
               <div className="bg-gray-100 rounded-lg aspect-square" />
